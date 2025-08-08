@@ -45,8 +45,8 @@
 
 ### 📂 Featured Projects
 - 📝 [**Laravel Notes App**](https://github.com/barondedios/Final-Note-App)
-- 📝 [**Laravel Notes App**](https://github.com/barondedios/Final-Note-App)
-- 📝 [**Laravel Notes App**](https://github.com/barondedios/Final-Note-App)<!-- Banner or header image (optional) -->
+- 📝 [**Laravel Notes App**](https://github.com/barondedios/WAD-Practical-Exam-Finals)
+- 📝 [**Laravel Notes App**](https://github.com/barondedios/NoteApp)<!-- Banner or header image (optional) -->
 <p align="center">
   <img src="https://c.tenor.com/DNYUbUOJLusAAAAC/tenor.gif" alt="Profile Banner">
 </p>
