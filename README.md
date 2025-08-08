@@ -5,13 +5,13 @@
 
 <!-- Greeting -->
 <h1 align="center">Hi, I'm Aaron 👋</h1>
-<h3 align="center">A Passionate BSIS Student & Aspiring Software Developer</h3>
+<h3 align="center">A Passionate BSIS Student, Digital Illustrator, & Aspiring Game Developer</h3>
 
 <!-- Badges -->
 <p align="center">
   <a href="mailto:realbarondedios@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aaronjobbacani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/barondedios"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge"/></a>
+  <a href="https://github.com/barondedios"><img src="https://img.shields.io/github/followers/barondedios?label=Follow&style=for-the-badge"/></a>
 </p>
 
 ---
@@ -21,6 +21,7 @@
 - 💻 Interested in **Digital Illustrations**, **Game Development**, **Writing Stories**, and **Laravel**
 - 🎯 Goal: Build impactful digital experiences and contribute to open-source projects
 - 📚 Always learning and exploring new technologies
+
 
 ---
 
