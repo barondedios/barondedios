@@ -51,3 +51,11 @@
   <img src="https://c.tenor.com/DNYUbUOJLusAAAAC/tenor.gif" alt="Profile Banner">
 </p>
 
+---
+
+### 📂 Featured Digital Artworks
+<p align="center">
+  <img src="https://i.imgur.com/F1qFNEk.jpeg" alt="Profile Banner">
+</p>
+
+
