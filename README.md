@@ -55,9 +55,6 @@
 -  [**Laravel Notes App**](https://github.com/barondedios/Final-Note-App)
 -  [**Laravel CRUD with Middleware, Auth, etc**](https://github.com/barondedios/WAD-Practical-Exam-Finals)
 -  [**Laravel Notes App 2**](https://github.com/barondedios/NoteApp)<!-- Banner or header image (optional) -->
-<p align="center">
-  <img src="https://c.tenor.com/DNYUbUOJLusAAAAC/tenor.gif" alt="Profile Banner">
-</p>
 
 ---
 
