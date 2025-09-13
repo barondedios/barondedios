@@ -4,7 +4,7 @@
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hi, I'm Aaron 👋</h1>
+<h1 align="center">Hi, I'm Aaron</h1>
 <h3 align="center">A Passionate BSIS Student, Digital Illustrator, & Aspiring Game Developer</h3>
 
 <!-- Badges -->
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🎓 Currently taking **Bachelor of Science in Information Systems**
 - 💻 Interested in **Digital Illustrations**, **Game Development**, **Writing Stories**, and **Laravel**
 - 🎯 Goal: Build impactful digital experiences and contribute to open-source projects
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barondedios&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
 </p>
@@ -51,10 +51,10 @@
 
 ---
 
-### 📂 Featured Projects
-- 📝 [**Laravel Notes App**](https://github.com/barondedios/Final-Note-App)
-- 📝 [**Laravel CRUD with Middleware, Auth, etc**](https://github.com/barondedios/WAD-Practical-Exam-Finals)
-- 📝 [**Laravel Notes App 2**](https://github.com/barondedios/NoteApp)<!-- Banner or header image (optional) -->
+###  Featured Projects
+-  [**Laravel Notes App**](https://github.com/barondedios/Final-Note-App)
+-  [**Laravel CRUD with Middleware, Auth, etc**](https://github.com/barondedios/WAD-Practical-Exam-Finals)
+-  [**Laravel Notes App 2**](https://github.com/barondedios/NoteApp)<!-- Banner or header image (optional) -->
 <p align="center">
   <img src="https://c.tenor.com/DNYUbUOJLusAAAAC/tenor.gif" alt="Profile Banner">
 </p>
