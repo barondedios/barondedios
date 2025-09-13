@@ -17,10 +17,10 @@
 ---
 
 ###  About Me
-- 🎓 Currently taking **Bachelor of Science in Information Systems**
-- 💻 Interested in **Digital Illustrations**, **Game Development**, **Writing Stories**, and **Laravel**
-- 🎯 Goal: Build impactful digital experiences and contribute to open-source projects
-- 📚 Always learning and exploring new technologies
+-  Currently taking **Bachelor of Science in Information Systems**
+-  Interested in **Digital Illustrations**, **Game Development**, **Writing Stories**, and **Laravel**
+-  Goal: Build impactful digital experiences and contribute to open-source projects
+-  Always learning and exploring new technologies
 
 
 ---
@@ -61,7 +61,7 @@
 
 ---
 
-### 📂 Featured Digital Artworks
+###  Featured Digital Artworks
 <p align="center">
   <img src="https://i.imgur.com/F1qFNEk.jpeg" alt="Profile Banner">
 </p>
