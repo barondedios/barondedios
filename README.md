@@ -36,26 +36,6 @@
 
 ---
 
-###  GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barondedios&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barondedios&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barondedios&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
-
----
-
-###  Featured Projects
--  [**Laravel Notes App**](https://github.com/barondedios/Final-Note-App)
--  [**Laravel CRUD with Middleware, Auth, etc**](https://github.com/barondedios/WAD-Practical-Exam-Finals)
--  [**Laravel Notes App 2**](https://github.com/barondedios/NoteApp)<!-- Banner or header image (optional) -->
-
----
 
 
 
