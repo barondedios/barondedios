@@ -58,9 +58,5 @@
 
 ---
 
-###  Featured Digital Artworks
-<p align="center">
-  <img src="https://i.imgur.com/F1qFNEk.jpeg" alt="Profile Banner">
-</p>
 
 
