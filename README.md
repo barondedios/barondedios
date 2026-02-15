@@ -18,7 +18,7 @@
 
 ###  About Me
 -  Currently taking **Bachelor of Science in Information Systems**
--  Interested in **Digital Illustrations**, **Game Development**, **Writing Stories**, and **Laravel**
+-  Interested in **Digital Illustrations and Animation**, **Game Development**, **Designing**, and **Video Editing**
 -  Goal: Build impactful digital experiences and contribute to open-source projects
 -  Always learning and exploring new technologies
 
