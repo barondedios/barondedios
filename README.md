@@ -18,8 +18,7 @@
 
 ###  About Me
 -  Interested in **Digital Illustrations and Animation**, **Game Development**, **Designing**, and **Video Editing**
--  Goal: Build impactful digital experiences and contribute to open-source projects
-
+-  Goal: To achieve proficient mastery of various multimedia software applications and modern technology stacks.
 
 ---
 
