@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <h1 align="center">Hi, I'm Aaron</h1>
-<h3 align="center">A Passionate BSIS Student, Digital Illustrator, & Aspiring Game Developer</h3>
+<h3 align="center">A Digital Illustrator, an aspiring UI/UX Designer and Developer</h3>
 
 <!-- Badges -->
 <p align="center">
